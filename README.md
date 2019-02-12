@@ -7,11 +7,13 @@ The idea is that this repo is structured such to make it easy to initialize a ne
 The branch strategy lets you easily initialize your project with a skeleton structure.
 
 1. First, create a new repo:
-   ``` git init ```
+` git init `
+
 2. Then, add a remote to this repo:
-   ``` git remote add tmplt https://github.com/brporter/tmplt ```
+` git remote add tmplt https://github.com/brporter/tmplt `
+
 3. Lastly, on your `master` branch (or whichever branch you'd like to initialize with the desired template structure):
-   ``` git pull tmplt <template branch> --allow-unrelated-histories ```
+` git pull tmplt <template branch> --allow-unrelated-histories `
 
 You might have merge conflicts at the end of this process if your repo contained files already. Resolve them, commit, and push as you normally would for your project.
 
