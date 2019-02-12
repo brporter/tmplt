@@ -1,5 +1,5 @@
 # tmplt
-## What is this?
+## What?
 A collection of project templates that I find useful.
 ### How is it organized?
 The idea is that this repo is structured such to make it easy to initialize a new project. Templates are organized by editor / language, each in their own branch. For example, vscode/msvc would hold the skeleton of a project with things useful for a MSVC compiled C/C++ project edited with Visual Studio Code. Alternatively, vscode/msvc-clang-gcc might contain the skeleton of a project with multiple platform compilation support, while na/cmake might contain the basic structure of a CMake project without any assumptions on the editor being used.
