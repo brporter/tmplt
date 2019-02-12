@@ -1,0 +1,16 @@
+{
+   "configurations" : [
+      {
+         "type" : "cppvsdbg",
+         "externalConsole" : true,
+         "request" : "launch",
+         "environment" : [],
+         "stopAtEntry" : false,
+         "program" : "${workspaceFolder}/bin/x64/Debug/project/project.exe",
+         "cwd" : "${workspaceFolder}",
+         "name" : "(Windows) Launch",
+         "args" : [ ]
+      }
+   ],
+   "version" : "0.2.0"
+}
