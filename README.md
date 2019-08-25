@@ -19,9 +19,10 @@ You might have merge conflicts at the end of this process if your repo contained
 
 ### What templates are available?
 
-Each template is a seperate branch. So far, there is only one:
+Each template is a seperate branch.
 
 * [vscode/msvc](https://github.com/brporter/tmplt/tree/vscode/msvc) - Visual Studio Code and MSVC++ for Win32
+* [vscode/cmake-msvc-qt5](https://github.com/brporter/tmplt/tree/vscode/cmake-msvc-qt5) - Visual Studio Code, CMake, MSVC and Qt 5.0
 
 I expect to add the following in the near future:
 
