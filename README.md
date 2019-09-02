@@ -23,7 +23,7 @@ Each template is a seperate branch.
 
 * [vscode/msvc](https://github.com/brporter/tmplt/tree/vscode/msvc) - Visual Studio Code and MSVC++ for Win32
 * ~~[vscode/cmake-msvc-qt5](https://github.com/brporter/tmplt/tree/vscode/cmake-msvc-qt5) - Visual Studio Code, CMake, MSVC and Qt 5.0~~
-* [vscode/cmake-qt5](https://github.com/brporter/tmplt/tree/vscode/cmake-msvc-qt5) - Visual Studio Code, CMake, and Qt 5.0. Mac and Windows, clang and MSVC.
+* [vscode/cmake-qt5](https://github.com/brporter/tmplt/tree/vscode/cmake-qt5) - Visual Studio Code, CMake, and Qt 5.0. Mac and Windows, clang and MSVC.
 
 I expect to add the following in the near future:
 
