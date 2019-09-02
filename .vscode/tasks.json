@@ -12,6 +12,9 @@
             "windows":{
                 "command": ".\\build.bat"
             },
+            "osx":{
+                "command": "./build.sh"
+            },
             "group": "build",
             "presentation": {
                 // Reveal the output only if unrecognized errors occur.
